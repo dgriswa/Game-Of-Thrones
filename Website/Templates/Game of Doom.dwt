@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>I HATE GAME OF THRONES</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>This Website Is  A Haphazard Hodgepodge of Game of Thrones</h1>
+<p>Houses:</p>
+<ul>
+  <li><a href="../Tyrell/index.html">Tyrell</a></li>
+  <li><a href="../Tully/index.html">Tully</a></li>
+  <li><a href="../Targaryen/index.html">Targaryen</a></li>
+  <li><a href="../Stark/index.html">Stark</a></li>
+  <li><a href="../Martell/index.html">Martell</a></li>
+  <li><a href="../Lannister/index.html">Lannister</a></li>
+  <li><a href="../Bolton/index.html">Bolton</a></li>
+  <li><a href="../Baratheon/index.html">Baratheon</a></li>
+</ul>
+<!-- TemplateBeginEditable name="WOO" -->
+<h1>WOOO</h1>
+<!-- TemplateEndEditable -->
+</body>
+</html>
